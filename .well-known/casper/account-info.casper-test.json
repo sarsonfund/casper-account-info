@@ -1,0 +1,21 @@
+{
+    "owner": {
+        "name": "Manifest.network-Sarson Funds",
+        "description": "Sarson Funds Casper validator (testnet/staging), operated on dedicated Manifest.network infrastructure.",
+        "type": [
+            "validator",
+            "corporation"
+        ],
+        "identity": {},
+        "website": "https://www.sarsonfunds.com"
+    },
+    "nodes": [
+        {
+            "public_key": "01c6ff64b89175cbf4dfdad81e16d14e9cf8f47d1a35eeb7fda69cdbf62343bd8b",
+            "description": "Casper Testnet validator (casper-test-1)",
+            "functionality": [
+                "validator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "owner": {
+        "name": "Manifest.network-Sarson Funds",
+        "description": "Sarson Funds Casper validator, operated on dedicated Manifest.network infrastructure.",
+        "type": [
+            "validator",
+            "corporation"
+        ],
+        "identity": {},
+        "website": "https://www.sarsonfunds.com"
+    },
+    "nodes": [
+        {
+            "public_key": "01c4b846e306112ec6e1b24d1301039d094d2e4da069c5d50edb11013dabab6081",
+            "description": "Casper Mainnet validator (casper-val-1)",
+            "functionality": [
+                "validator"
+            ]
+        }
+    ]
+}
