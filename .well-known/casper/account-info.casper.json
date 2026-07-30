@@ -1,6 +1,6 @@
 {
     "owner": {
-        "name": "Manifest.network-Sarson Funds",
+        "name": "Manifest.Network-Sarson Funds",
         "description": "Sarson Funds Casper validator, operated on dedicated Manifest.network infrastructure.",
         "type": [
             "validator",
