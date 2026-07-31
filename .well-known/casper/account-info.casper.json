@@ -7,7 +7,13 @@
             "corporation"
         ],
         "identity": {},
-        "website": "https://www.sarsonfunds.com"
+        "website": "https://www.sarsonfunds.com",
+        "branding": {
+            "logo": {
+                "png_256": "https://casper.sarsonfunds.com/branding/logo-256.png",
+                "png_1024": "https://casper.sarsonfunds.com/branding/logo-1024.png"
+            }
+        }
     },
     "nodes": [
         {
